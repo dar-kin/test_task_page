@@ -1,0 +1,7 @@
+.env/
+../.idea/
+__pycache__/
+media/
+static/
+documents/
+db.sqlite3
